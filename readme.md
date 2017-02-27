@@ -8,7 +8,7 @@ Project is based on the awesome tutorial from https://pythonprogramming.net/
 
 Data is retrieved from http://help.sentiment140.com/for-students/
 
-Just download and copy the files directly into the **data** folder and rename it to **train-data.csv** | **test-data.csv**
+Just download and copy the files directly into folder called **data** and rename the files to **train-data.csv** & **test-data.csv**
 
 **Have fun**
 
